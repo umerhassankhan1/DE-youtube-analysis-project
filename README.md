@@ -1,5 +1,5 @@
 # DE-youtube-analysis-project
-The main purpose of this project was to create an etl pipeline for youtube analysis using different aws services.
+The main purpose of this project was to create an ETL pipeline for youtube analysis using different aws services. I have followed a youtube tutorial for completing this project.
 
 ### AWS Services used:
 1. AWS S3
